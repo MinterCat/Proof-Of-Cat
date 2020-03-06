@@ -1,7 +1,7 @@
 <img src="http://testnet.mintercat.com/static/img/icons/Cats.webp" width='100' height='100'><h1>MinterCat | Proof Of Cat</h1>
 <br><br>
 https://api.mintercat.com/hash<br>
-hash - <b>0xc4bcf0eea760f882d17fe219ae217a4fdc06529530b14f98551ec0769694e44d</b><br>
+hash - <b>0xc4bcf0eea760f882d17fe219ae217a4fdc06529530b14f98551ec0769694e44d</b> <i>(for an example)</i><br>
 <br>
 API for working with hash: https://api.mintercat.com/hash?hash=0xc4bcf0eea760f882d17fe219ae217a4fdc06529530b14f98551ec0769694e44d<br>
 <br>
