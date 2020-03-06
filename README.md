@@ -25,6 +25,6 @@ Here we see the transaction type and appearance of the cat.<br>
 <li>type 6: Deleting</li>
  </ul>
 <li>img - Serial number of the cat's avatar.</li>
-  To get an image of the cat's avatar, follow the link:<br> https://mintercat.com/img/Cat <b><i>serial number of the cat's avatar</i></b> .webp<br>
+  To get an image of the cat's avatar, follow the link:<br> mintercat.com/img/Cat<b><i>serial number of the cat's avatar</i></b> .webp<br>
 <li>hash - Hash transactions.</li>
 </ul>
