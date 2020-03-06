@@ -1,5 +1,5 @@
-# Proof Of Cat
-<img src="http://testnet.mintercat.com/static/img/icons/Cats.webp" width='50' height='50'>
+<img src="http://testnet.mintercat.com/static/img/icons/Cats.webp" width='50' height='50'><h2>MinterCat | Proof Of Cat</h2>
+<br><br>
 https://api.mintercat.com/hash<br>
 hash - <b>0xc4bcf0eea760f882d17fe219ae217a4fdc06529530b14f98551ec0769694e44d</b><br>
 <br>
